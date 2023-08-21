@@ -41,8 +41,6 @@ beautifulsoup4
 
 ## Installation
 
-To run the Django backend locally, follow these steps:
-
 1. Clone the repository:
 
    ```
