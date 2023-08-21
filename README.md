@@ -46,7 +46,6 @@ To run the Django backend locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/tamkimd/Mapcraper.git
    git clone https://github.com/tamkimd/MapScraper.git
    ```
 
