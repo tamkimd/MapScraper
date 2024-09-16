@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "MapScraper"
+version = "1.0"
+description = "A simple map scraper"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.25"
+beautifulsoup4 = "^4.10"
